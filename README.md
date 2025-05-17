@@ -1,7 +1,5 @@
 # QR Code Component
 
-![Preview do Projeto](./screenshot.png)
-
 Este é um componente simples de QR Code desenvolvido como prática de HTML e CSS. Ele apresenta um cartão centralizado na tela com uma imagem de QR Code e uma mensagem convidando o usuário a escanear o código.
 
 🔗 [Veja o projeto online](https://qr-code-component-khaki-three.vercel.app)
@@ -19,12 +17,6 @@ Este é um componente simples de QR Code desenvolvido como prática de HTML e CS
 - HTML5
 - CSS3
 - Deploy via Vercel
-
----
-
-## 📸 Screenshot
-
-![QR Code Component Screenshot](./screenshot.png)
 
 ---
 
